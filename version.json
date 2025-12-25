@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "1.0.26",
-    "url":  "https://raw.githubusercontent.com/bsrbhanwarsingh/kids_painting_app_Copy/master/app-1.0.26.apk",
-    "releaseNotes":  "- Remove pubspec.yaml from repository - should not be tracked\n- Merge branch \u0027master\u0027 of https://github.com/bsrbhanwarsingh/kids_painting_app_Copy\n- Delete app.apk\n- Release APK Update\n- Release APK Update"
+    "version":  "1.0.27",
+    "url":  "https://raw.githubusercontent.com/bsrbhanwarsingh/kids_painting_app_Copy/master/app-1.0.27.apk",
+    "releaseNotes":  "- **High-DPI Drawing**: Added support for Retina/High-DPI screens. Lines and shapes are now crisp and sharp.\n- **Improved Flood Fill**: \n- **Improved Performance**: Drawing operations are now faster on high-resolution devices."
 }
