@@ -1,8 +1,10 @@
-# Ignore everything
+# Ignore everything by default - only APK and version.json should be tracked
 *
 
-# Whitelist release files
+# But allow these specific files for GitHub releases
+!.gitignore
 !app.apk
 !version.json
-!publish_update.bat
-!.gitignore
+
+# Keep the .git directory
+!.git/
