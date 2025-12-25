@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "1.0.22",
-    "url":  "https://raw.githubusercontent.com/bsrbhanwarsingh/kids_painting_app_Copy/master/app-1.0.22.apk",
-    "releaseNotes":  "- New Feature: Auto-Update configured! ðŸš€"
+    "version":  "1.0.23",
+    "url":  "https://raw.githubusercontent.com/bsrbhanwarsingh/kids_painting_app_Copy/master/app-1.0.23.apk",
+    "releaseNotes":  "- Remove pubspec.yaml from repository - should not be tracked\n- Merge branch \u0027master\u0027 of https://github.com/bsrbhanwarsingh/kids_painting_app_Copy\n- Delete app.apk\n- Release APK Update\n- Release APK Update"
 }
