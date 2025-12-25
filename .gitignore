@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Whitelist release files
+!app.apk
+!version.json
+!publish_update.bat
+!.gitignore
