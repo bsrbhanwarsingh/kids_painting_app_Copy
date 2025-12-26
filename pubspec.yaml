@@ -49,7 +49,7 @@ dependencies:
   
   # Drawing and Canvas
   flutter_colorpicker: ^1.1.0
-  audioplayers: ^6.0.0
+  screenshot: ^3.0.0
   
   # Text-to-Speech (Platform Toggle)
   # IMPORTANT: flutter_tts has Windows build issues (WinRT linker errors)
@@ -57,21 +57,30 @@ dependencies:
   # - For Android/iOS/Web builds: UNCOMMENT the line below
   # flutter_tts: ^4.2.3
 
-  
-  # Sharing
+  # Sharing and Gallery
   share_plus: ^10.1.2
   
+  # Network
+  http: ^1.2.2
+  url_launcher: ^6.3.1
+  
+  # Audio
+  audioplayers: ^6.1.0
+  
+  # App Information
+  package_info_plus: ^8.1.0
+  
+  # File Operations for APK Install
+  open_filex: ^4.5.0
+  universal_io: ^2.3.1
+  image: ^4.7.2
+
   # Utilities
   intl: ^0.19.0
   uuid: ^4.5.1
-  http: ^1.2.1
-  url_launcher: ^6.3.1
   
   # Parental Controls
   device_info_plus: ^10.1.2
-  package_info_plus: ^8.0.2
-  universal_io: ^2.3.1
-  image: ^4.7.2
 
 dev_dependencies:
   flutter_test:
