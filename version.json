@@ -1,5 +1,9 @@
-﻿{
-    "version":  "1.0.40",
-    "url":  "https://raw.githubusercontent.com/bsrbhanwarsingh/kids_painting_app_Copy/master/app-1.0.40.apk",
-    "releaseNotes":  "- Bug fixes and improvements"
+{
+  "latestVersion": "1.0.41",
+  "apkUrl": "https://github.com/bsrbhanwarsingh/kids_painting_app_Copy/raw/master/releases/app-1.0.41.apk",
+  "releaseNotes": "- Bug fixes and improvements",
+  "downloadSize": "64.5 MB",
+  "releaseDate": "26-12-2025",
+  "minimumVersion": "1.0.0",
+  "forceUpdate": false
 }
